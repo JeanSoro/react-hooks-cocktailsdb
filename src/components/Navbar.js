@@ -8,7 +8,7 @@ export default function Navbar() {
       <img className="logo" src={logo} alt="logo app" />
       <ul className="nav-links">
         <li>
-          <Link to="/home">Home</Link>
+          <Link to="/">Home</Link>
         </li>
         <li>
           <Link to="/about">About</Link>
